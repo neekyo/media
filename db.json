@@ -1,23 +1,43 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Myra"
     },
     {
       "name": "Elsie Price",
-      "id": 3
+      "id": "3"
     },
     {
       "name": "Harold Strosin",
-      "id": 4
+      "id": "4"
     }
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
+      "id": "680f",
+      "userId": "1",
+      "title": "Incredible Plastic Pants"
+    },
+    {
+      "id": "2e1f",
+      "userId": "1",
+      "title": "Refined Plastic Tuna"
+    },
+    {
+      "id": "9d2d",
+      "userId": "1",
+      "title": "Bespoke Steel Cheese"
+    },
+    {
+      "id": "0878",
+      "userId": "3",
+      "title": "Small Granite Ball"
+    },
+    {
+      "id": "d84e",
+      "userId": "1",
+      "title": "Handcrafted Metal Bike"
     }
   ],
   "photos": []
