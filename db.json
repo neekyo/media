@@ -45,5 +45,11 @@
       "title": "Gorgeous Metal Pizza"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "8f53",
+      "albumId": "2e1f",
+      "url": "https://loremflickr.com/150/150/abstract?lock=4947"
+    }
+  ]
 }
