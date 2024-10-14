@@ -15,11 +15,6 @@
   ],
   "albums": [
     {
-      "id": "680f",
-      "userId": "1",
-      "title": "Incredible Plastic Pants"
-    },
-    {
       "id": "2e1f",
       "userId": "1",
       "title": "Refined Plastic Tuna"
@@ -38,6 +33,16 @@
       "id": "d84e",
       "userId": "1",
       "title": "Handcrafted Metal Bike"
+    },
+    {
+      "id": "f404",
+      "userId": "3",
+      "title": "Fantastic Rubber Table"
+    },
+    {
+      "id": "a86e",
+      "userId": "4",
+      "title": "Gorgeous Metal Pizza"
     }
   ],
   "photos": []
